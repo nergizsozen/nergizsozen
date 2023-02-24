@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate backend developer with a PhD degree in software engineering</h3>
 
-- 🌱 I’m currently learning **Jira, Selenium**
+- 🌱 I’m currently learning **Selenium**
 
 - 📝 I regularly write articles on Empirical Software Engineering
 
