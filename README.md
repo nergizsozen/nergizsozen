@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Jira, Selenium**
 
-- 📝 I regularly write articles on *Empirical Software Engineering
+- 📝 I regularly write articles on Empirical Software Engineering
 
 - 💬 Ask me about **C, python, SQL, eye-tracking metrics**
 
