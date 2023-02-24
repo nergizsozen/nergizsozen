@@ -1,5 +1,5 @@
 ![logo](https://github.com/nergizsozen/nergizsozen/blob/main/banner2.png)
-<h1 align="center">Hi 👋, I'm Nergiz Sozen</h1>
+
 <h3 align="center">A passionate backend developer with a PhD degree in software engineering</h3>
 
 - 🌱 I’m currently learning **Jira, Selenium**
