@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Selenium**
 
-- 📝 I regularly write articles on Empirical Software Engineering
+- 📝 I regularly publish scientific articles on Software Engineering, Software Testing, Software Education.
 
 - 💬 Ask me about **C, python, SQL, eye-tracking metrics**
 
