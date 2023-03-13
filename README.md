@@ -6,7 +6,7 @@
 
 - 📝 I regularly publish scientific articles on Software Engineering, Software Testing, Software Education.
 
-- 💬 Ask me about **C, python, SQL, eye-tracking metrics**
+- 💬 Ask me about **C, python, SQL, eye-tracking **
 
 - 📫 How to reach me **kilinc.nergiz@gmail.com**
 
